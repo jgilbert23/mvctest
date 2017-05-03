@@ -1,0 +1,11 @@
+# Visual Studio Files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
